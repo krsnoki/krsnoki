@@ -9,7 +9,7 @@
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://github.com/krsnoki">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,julia,bash,js,html,css,react,redux,nodejs,express,mongodb,typescript,kotlin,next" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,julia,bash,js,html,css,react,redux,nodejs,express,mongodb,typescript,kotlin,next,angular" />
   </a>
 </p>
 
