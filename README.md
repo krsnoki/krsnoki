@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Kalyani+Kolte;PhD+Scholar+@MFSDSAI+ IITGuwahati;A+Full+stack+Web/App+dev;and;A+Cyber+Security+Enthusiast...+Currently+exploring+the+world+of+AI" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Kalyani+Kolte;PhD+Scholar+@MFSDSAI+ IITGuwahati;A+Full+stack+Web/App+dev;and;A+Cyber+Security+Enthusiast..." />
 
          
 ### Glad to see you here! 🤩 &nbsp; 
