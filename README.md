@@ -14,13 +14,13 @@
 </p>
 
 
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=krsnoki&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsnoki&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
+<!-- **⚙️ &nbsp;GitHub Analytics** -->
+<!-- <table style="width:100%"> -->
+  <!-- <tr> -->
+    <!-- <td> <img src="https://github-readme-stats.vercel.app/api?username=krsnoki&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td> -->
+    <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsnoki&theme=dark&hide_border=true&layout=compact"></td> <tr/> -->
+
+<!-- </table> -->
 
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 <!-- *** -->
